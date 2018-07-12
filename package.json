@@ -1,0 +1,27 @@
+{
+  "name": "pwasm-as",
+  "version": "0.0.0",
+  "description": "Ethereum-like contracts written in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reklatsmasters/pwasm-as.git"
+  },
+  "keywords": [
+    "parity",
+    "wasm"
+  ],
+  "author": "Dmitriy Tsvettsikh <me@reklatsmasters.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reklatsmasters/pwasm-as/issues"
+  },
+  "homepage": "https://github.com/reklatsmasters/pwasm-as#readme",
+  "devDependencies": {
+    "assemblyscript": "github:AssemblyScript/assemblyscript",
+    "typescript": "^2.9.2"
+  }
+}
